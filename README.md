@@ -1,4 +1,4 @@
-## win11 container
+## Local Docker Container(Window 11)
 ```bash
 git clone https://github.com/dockur/windows
 cd windows
@@ -13,6 +13,14 @@ login: Docker@admin
 # Web VNC connect(slow, not clipboard)
 http://172.20.0.1:8006
 ```
+
+## Github Codebase(VSCode/dev container on line)
+https://techcommunity.microsoft.com/blog/educatordeveloperblog/teaching-python-with-github-codespaces/4419687
+
+
+## Installing Windows 11 on GitHub Codespaces
+https://www.youtube.com/watch?v=PQv-1-qI9zg
+
 
 ## ivps
 github collaborate to create win10 VPS.
