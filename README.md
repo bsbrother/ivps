@@ -12,6 +12,12 @@ login: Docker@admin
 
 # Web VNC connect(slow, not clipboard)
 http://172.20.0.1:8006
+
+# VPN in win11
+- Install netframework2.0
+- Install StrongVPN-Win
+- When Start StrongWPN-Win, Kasm container VPN will not effect.
+- On Kasm container, winstop ->restore VPN.
 ```
 
 ## Github Codebase(VSCode/dev container on line)
